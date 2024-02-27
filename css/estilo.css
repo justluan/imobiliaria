@@ -205,31 +205,3 @@ footer {
     margin: 1%;
     color:rgba(0,0,0, 0.5)
 }
-
-@media (max-width: 768px) {
-    .secao1 .logotipo {
-        width: 80%
-    }
-
-
-.secao2 img {
-    width: 100%; /* Fazendo a imagem da secao2 ocupar 100% da largura */
-}
-
-.secao3 .imovel {
-    width: 100%; /* Fazendo a imagem da secao3 ocupar 100% da largura */
-}
-
-.secao4 ul {
-    width: 100%; /* Fazendo a largura da lista da secao4 ocupar 100% da largura */
-}
-
-.secao5 .imgcorretores {
-    width: 100%; /* Fazendo a imagem da secao5 ocupar 100% da largura */
-}
-
-.secao6 iframe {
-    width: 80vw; /* Ajustando a largura do iframe para dispositivos menores */
-    height: 40vw; /* Ajustando a altura do iframe para dispositivos menores */
-}
-}
