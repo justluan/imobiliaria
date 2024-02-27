@@ -15,6 +15,7 @@
 }
 
 .secao1 {
+    height: 100vh;
     background-image: url(https://i.pinimg.com/originals/40/eb/6c/40eb6cb5f9e91a3766b9a3134203aa56.jpg);
     background-size: cover;
     background-position: center;
